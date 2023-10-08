@@ -22,11 +22,11 @@ I am a recent graduate with a strong foundation in web development and a passion
 ## Skills
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,laravel" /><br>
     <img src="https://skillicons.dev/icons?i=php,python" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery" />
 </div>
 
 ## Contact Me
@@ -38,8 +38,7 @@ I am a recent graduate with a strong foundation in web development and a passion
   <a href="https://www.linkedin.com/in/mustafa-abdelmoumen-280a71220" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <a href="https://wa.me/+212649721816" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
 </div>
-
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project. I'm always eager to learn and explore new opportunities in the world of web development.
-
-Let's build amazing web experiences together! 🚀
