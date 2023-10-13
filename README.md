@@ -35,7 +35,7 @@ I am a recent graduate with a strong foundation in web development and a passion
   <a href="mailto:abdelmoumen.mustafa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/mustafa-abdelmoumen-280a71220" target="_blank">
+  <a href="https://www.linkedin.com/in/mustafaabdelmoumen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <a href="https://wa.me/+212649721816" target="_blank">
